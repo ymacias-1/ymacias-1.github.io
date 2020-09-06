@@ -49,3 +49,21 @@ div.crows{
 span.number{
     color: cornflowerblue
 }
+a{
+    color: navy
+}
+li:hover{
+    color: blueviolet
+}
+
+p.first{
+    background-color: slateblue
+}
+body.over{
+    background-color: darkolivegreen
+}
+@media only screen and (max-width: 600ox) {
+    body{
+        background-color: cyan
+    }
+}
