@@ -13,3 +13,15 @@ div.randomlist{
 span.facts{
     color: fuchsia
 }
+div.index{
+    background-color: red
+}
+div.point{
+    color: forestgreen
+}
+div.visit{
+    color:rebeccapurple
+}
+span.cute{
+    color: gold
+}
