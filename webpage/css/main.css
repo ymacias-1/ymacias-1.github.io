@@ -53,7 +53,7 @@ a{
     color: navy
 }
 li:hover{
-    color: blueviolet
+    background-color: plum
 }
 
 p.first{
