@@ -62,7 +62,7 @@ p.first{
 body.over{
     background-color: rgb(116, 130, 177)
 }
-@media only screen and (max-width: 600ox) {
+@media only screen and (max-width: 600px) {
     body{
         background-color: cyan
     }
