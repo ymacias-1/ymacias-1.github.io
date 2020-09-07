@@ -2,7 +2,7 @@ div.pdivclass {
     color:red
 }
 div.titleone{
-    color:coral
+    color:rgb(180, 130, 23)
 }
 div.headercolor{
     color:darkblue
@@ -60,7 +60,7 @@ p.first{
     background-color: slateblue
 }
 body.over{
-    background-color: darkolivegreen
+    background-color: rgb(116, 130, 177)
 }
 @media only screen and (max-width: 600ox) {
     body{
